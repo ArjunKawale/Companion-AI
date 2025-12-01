@@ -61,10 +61,10 @@ Interact with your AI companion in four styles:
 ---
 
 ## File Structure
-
+```
 Companion_AI/
 ├─ main.ipynb # Main notebook showcasing memory extraction and responses for all personalities
-├─ personality.py # Helper functions for defining personalities; allows easy addition of new personalities
+├─ personality.py # Helper functions for defining personalities; easy to add new personalities
 ├─ Conversation_Data/
 │ └─ conv.json # Original user messages (~30 messages) used for memory extraction
 ├─ Memory/
@@ -74,4 +74,4 @@ Companion_AI/
 │ └─ memory_store.json # Stores extracted memory entities in structured JSON format
 ├─ SS/ # Screenshots of AI responses for different personalities
 └─ README.md # This file
-
+```
