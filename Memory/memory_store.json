@@ -1,0 +1,172 @@
+{
+    "preferences": [
+        {
+            "category": "app_interface_theme",
+            "value": "dark mode",
+            "confidence": 0.9
+        },
+        {
+            "category": "explanation_style",
+            "value": "short",
+            "confidence": 1.0
+        },
+        {
+            "category": "activity_engagement",
+            "value": "dislikes boring activities",
+            "confidence": 0.8
+        },
+        {
+            "category": "Snacks",
+            "value": "Chips",
+            "confidence": 0.9
+        },
+        {
+            "category": "Beverages",
+            "value": "Cold coffee",
+            "confidence": 0.9
+        },
+        {
+            "category": "learning_goals",
+            "value": "learn FastAPI",
+            "confidence": 0.9
+        },
+        {
+            "category": "UI Design",
+            "value": "Clean UI designs",
+            "confidence": 1.0
+        },
+        {
+            "category": "study time",
+            "value": "late at night",
+            "confidence": 1.0
+        },
+        {
+            "category": "environment",
+            "value": "prefers quiet environments",
+            "confidence": 1.0
+        },
+        {
+            "category": "environment",
+            "value": "dislikes noisy environments",
+            "confidence": 1.0
+        },
+        {
+            "category": "advice_style",
+            "value": "direct and no sugarcoating",
+            "confidence": 1.0
+        },
+        {
+            "category": "reply_tone",
+            "value": "not too formal",
+            "confidence": 0.9
+        },
+        {
+            "category": "music",
+            "value": "lo-fi while coding",
+            "confidence": 0.9
+        },
+        {
+            "category": "favorites",
+            "value": "sci-fi movies and mystery novels",
+            "confidence": 0.9
+        },
+        {
+            "category": "design_preference",
+            "value": "minimalistic designs",
+            "confidence": 0.9
+        },
+        {
+            "category": "setup_preference",
+            "value": "silent mechanical keyboard",
+            "confidence": 0.8
+        },
+        {
+            "category": "study_notes_style",
+            "value": "super organized notes",
+            "confidence": 1.0
+        },
+        {
+            "category": "motivation_style",
+            "value": "small actionable steps",
+            "confidence": 1.0
+        }
+    ],
+    "emotional_patterns": [
+        {
+            "emotion": "overwhelmed",
+            "trigger": "learning machine learning",
+            "confidence": 0.8
+        },
+        {
+            "emotion": "exhaustion",
+            "trigger": "boring college labs",
+            "confidence": 0.7
+        },
+        {
+            "emotion": "stress",
+            "trigger": "code not working",
+            "confidence": 1.0
+        },
+        {
+            "emotion": "frustration",
+            "trigger": "device malfunction/deterioration",
+            "confidence": 0.7
+        },
+        {
+            "emotion": "frustration/difficulty concentrating",
+            "trigger": "noisy environments",
+            "confidence": 1.0
+        },
+        {
+            "emotion": "annoyance",
+            "trigger": "deployments breaking unexpectedly",
+            "confidence": 0.8
+        },
+        {
+            "emotion": "overthinking",
+            "trigger": "small issues",
+            "confidence": 0.9
+        },
+        {
+            "emotion": "tiredness",
+            "trigger": "long days / random tired phases",
+            "confidence": 0.7
+        },
+        {
+            "emotion": "frustration",
+            "trigger": "wifi acting up at 1am",
+            "confidence": 0.8
+        },
+        {
+            "emotion": "self-doubt",
+            "trigger": "feeling like sharing things too fast",
+            "confidence": 0.7
+        }
+    ],
+    "facts": [
+        {
+            "fact": "Birthday in October",
+            "confidence": 1.0
+        },
+        {
+            "fact": "Learning React",
+            "confidence": 0.9
+        },
+        {
+            "fact": "Wants to improve consistency",
+            "confidence": 0.9
+        },
+        {
+            "fact": "Takes naps when disappearing",
+            "confidence": 0.7
+        },
+        {
+            "fact": "Sometimes solves long-stuck problems (2-day problem solved)",
+            "confidence": 0.7
+        },
+        {
+            "fact": "Wifi becomes unstable at 1 AM daily",
+            "confidence": 0.8
+        }
+    ]
+}
