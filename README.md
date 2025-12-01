@@ -75,3 +75,8 @@ Companion_AI/
 ├─ SS/ # Screenshots of AI responses for different personalities
 └─ README.md # This file
 ```
+
+## Usage Notice
+This project was developed as part of a technical assignment for an internship evaluation.
+It is not permitted to reuse, redistribute, or deploy this work—fully or partially—without the author’s permission.
+If you wish to extend or adapt any part of this system, please reach out.
